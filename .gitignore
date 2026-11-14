@@ -1,0 +1,22 @@
+# Fichiers générés par dune
+_build/
+*.exe
+*.bc
+*.o
+*.a
+*.cm*
+*.cache
+*.annot
+
+# Fichiers générés par menhir
+*.conflicts
+*.automaton
+
+# Fichiers temporaires
+*.swp
+*.log
+*~
+
+# Système et IDE
+.DS_Store
+.vscode/
